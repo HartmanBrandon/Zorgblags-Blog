@@ -103,3 +103,7 @@ img {
 .blog-para {
     width: 75%;
 }
+
+section .pink-border {
+    margin: 1rem;
+}
