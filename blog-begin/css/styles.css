@@ -83,7 +83,23 @@ li a:hover {
     text-decoration: none;;
 }
 
+img {
+    border-radius: 20px;
+}
+
 .users li{
     padding: .25rem;
 }
 
+.article-container {
+    display: flex;
+    margin: 3rem;
+}
+
+.blog-text {
+    margin-left: 1rem;
+}
+
+.blog-para {
+    width: 75%;
+}
