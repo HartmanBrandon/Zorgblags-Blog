@@ -60,6 +60,10 @@ footer {
     justify-content: center;
     align-items: center;    
     list-style-type: none;
+    
+}
+
+.pink-border {
     border-top: 2px solid #DA0090;
     border-bottom: 2px solid #DA0090;
 }
@@ -78,3 +82,8 @@ li a:hover {
     color: #DA0090;
     text-decoration: none;;
 }
+
+.users li{
+    padding: .25rem;
+}
+
